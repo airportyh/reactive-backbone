@@ -1,0 +1,23 @@
+{
+  "name": "reactive-backbone",
+  "version": "0.0.0",
+  "description": "Reactive model adapter for Backbone models.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/airportyh/reactive-backbone.git"
+  },
+  "keywords": [
+    "backbone",
+    "reactive"
+  ],
+  "author": "Toby Ho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/airportyh/reactive-backbone/issues"
+  },
+  "homepage": "https://github.com/airportyh/reactive-backbone"
+}
