@@ -1,5 +1,5 @@
 {
-  "name": "reactive-backbone"
+  "name": "reactive-backbone",
   "description": "Reactive model adapter for Backbone models.",
   "repo": "airportyh/reactive-backbone",
   "main": "index.js",
